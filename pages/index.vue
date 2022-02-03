@@ -49,7 +49,7 @@
 					</p>
 					<p>
 						Thank you for developing with Vuetify and I look forward to bringing
-						more exciting features in the future.
+						more exciting features in the future. TEST
 					</p>
 					<div class="text-xs-right">
 						<em><small>&mdash; John Leider</small></em>
